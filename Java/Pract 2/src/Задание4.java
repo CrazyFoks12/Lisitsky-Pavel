@@ -1,3 +1,4 @@
+//Дан двумерный массив A Размером (nxn). Найти номер минимального элемента побочной диагонали.
 public class Задание4 {
     public static void main(String[] args) {
         int n = 6;
